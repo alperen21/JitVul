@@ -1,0 +1,4 @@
+node_modules/ # Example for Node.js projects
+__pycache__/ # Example for Python projects
+*.log # Ignore log files~
+.DS_Store
